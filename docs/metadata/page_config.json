@@ -1,0 +1,116 @@
+{
+  "gigapan": {
+    "is_game": false,
+    "snapshottable": true,
+    "is_private": false,
+    "allow_others_to_print": false,
+    "id": 74675,
+    "tile_server_path": "http://tile74.gigapan.org/gigapans0/74675/tiles/",
+    "user_id": 14936,
+    "related_gigapans": [
+      {
+        "name": "岩手県:大槌町:東京大学 国際沿岸海洋研究センター:サウンドスケープOTOHAMA録音場所(7/23)",
+        "thumbnail_url": "//static.gigapan.com/gigapans0/82707/images/82707-150x100-12003-27309-0-10204.jpg",
+        "id": 82707
+      },
+      {
+        "name": "Rock In Japan 2011",
+        "thumbnail_url": "//static.gigapan.com/gigapans0/83597/images/83597-150x100-20934-46122-0-16792.jpg",
+        "id": 83597
+      },
+      {
+        "name": "Garden of God in Colorado",
+        "thumbnail_url": "//static.gigapan.com/gigapans0/86979/images/86979-150x100-19334-39554-0-13480.jpg",
+        "id": 86979
+      },
+      {
+        "name": "Hack for Japan at Tohno Magokoro NET",
+        "thumbnail_url": "//static.gigapan.com/gigapans0/82444/images/82444-150x100-16423-24793-0-5580.jpg",
+        "id": 82444
+      },
+      {
+        "name": "Ohtsuchi Town hall",
+        "thumbnail_url": "//static.gigapan.com/gigapans0/78049/images/78049-150x100-6754-27046-0-13528.jpg",
+        "id": 78049
+      },
+      {
+        "name": "Inside of Volunteer House in Kazawa",
+        "thumbnail_url": "//static.gigapan.com/gigapans0/25876/images/25876-150x100-3156-14052-0-7264.jpg",
+        "id": 25876
+      },
+      {
+        "name": "NishiAwakura",
+        "thumbnail_url": "//static.gigapan.com/gigapans0/92211/images/92211-150x100-11666-48734-0-24712.jpg",
+        "id": 92211
+      },
+      {
+        "name": "Near by Ohtsuchi station in Ohtsuchi",
+        "thumbnail_url": "//static.gigapan.com/gigapans0/78401/images/78401-150x100-11310-28194-0-11256.jpg",
+        "id": 78401
+      },
+      {
+        "name": "Natural Environmental Design Studio in Chichibu",
+        "thumbnail_url": "//static.gigapan.com/gigapans0/89981/images/89981-150x100-9999-50025-0-26684.jpg",
+        "id": 89981
+      },
+      {
+        "name": "Natural Environmental Design Studio in Chichibu",
+        "thumbnail_url": "//static.gigapan.com/gigapans0/89999/images/89999-150x100-17712-41616-0-15936.jpg",
+        "id": 89999
+      },
+      {
+        "name": "Asa Sul",
+        "thumbnail_url": "//static.gigapan.com/gigapans0/94606/images/94606-150x100-14005-42427-0-18948.jpg",
+        "id": 94606
+      },
+      {
+        "name": "Ando area in Ohtsuchi",
+        "thumbnail_url": "//static.gigapan.com/gigapans0/78237/images/78237-150x100-8158-31210-0-15368.jpg",
+        "id": 78237
+      },
+      {
+        "name": "IBAMA's garden in Brasilia",
+        "thumbnail_url": "//static.gigapan.com/gigapans0/94406/images/94406-150x100-12891-45957-0-22044.jpg",
+        "id": 94406
+      },
+      {
+        "name": "Kirikiri area in Ohtsuchi",
+        "thumbnail_url": "//static.gigapan.com/gigapans0/78288/images/78288-150x100-9629-29723-0-13396.jpg",
+        "id": 78288
+      },
+      {
+        "name": "GeoGeo Stamp rally 2009 a",
+        "thumbnail_url": "//static.gigapan.com/gigapans0/28615/images/28615-150x100-6810-13956-0-4764.jpg",
+        "id": 28615
+      },
+      {
+        "name": "Morino-Kurashino-Sato in Ohmachi, Nagano",
+        "thumbnail_url": "//static.gigapan.com/gigapans0/89877/images/89877-150x100-14102-48530-0-22952.jpg",
+        "id": 89877
+      },
+      {
+        "name": "The little wetland",
+        "thumbnail_url": "//static.gigapan.com/gigapans0/25947/images/25947-150x100-6116-15792-0-6451.jpg",
+        "id": 25947
+      },
+      {
+        "name": "OpenConcierge Office",
+        "thumbnail_url": "//static.gigapan.com/gigapans0/23245/images/23245-150x100-7117-13227-0-4073.jpg",
+        "id": 23245
+      },
+      {
+        "name": "GeoGeo Stamp Rally 2009 b",
+        "thumbnail_url": "//static.gigapan.com/gigapans0/28617/images/28617-150x100-5321-13969-0-5765.jpg",
+        "id": 28617
+      },
+      {
+        "name": "岡山県:西粟倉村:森の学校裏手の田んぼ(11/16) ",
+        "thumbnail_url": "//static.gigapan.com/gigapans0/92187/images/92187-150x100-16849-44623-0-18516.jpg",
+        "id": 92187
+      }
+    ],
+    "height": 14784,
+    "levels": 9,
+    "width": 39288
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "history": [
+    {
+      "time": "2026-10-23T17:25:18.932945+00:00",
+      "sources": [
+        {
+          "file": "metadata/gigapan.json",
+          "retrieved_at": "2026-10-23T17:17:06.947996+00:00",
+          "url": "https://gigapan.com/gigapans/74675.json",
+          "content_type": "application/json; charset=utf-8",
+          "last_modified": null,
+          "etag": "\"59ad8ebd79b0663357c1e25cc634b41c\""
+        },
+        {
+          "file": "metadata/source.kml",
+          "retrieved_at": "2026-10-23T17:17:07.155038+00:00",
+          "url": "https://gigapan.com/gigapans/74675.kml",
+          "content_type": "application/vnd.google-earth.kml+xml; charset=utf-8",
+          "last_modified": null,
+          "etag": "\"7266da26d27855146490a9113be04ef9\""
+        },
+        {
+          "file": "metadata/page.html",
+          "retrieved_at": "2026-10-23T17:17:10.051906+00:00",
+          "url": "https://gigapan.com/gigapans/74675",
+          "content_type": "text/html; charset=utf-8",
+          "last_modified": null,
+          "etag": "\"db2915e209d7d160563e291661b7beb4\""
+        },
+        {
+          "file": "metadata/snapshots_page_1.json",
+          "retrieved_at": "2026-10-23T17:17:10.252705+00:00",
+          "url": "https://gigapan.com/gigapans/74675/snapshots.json?page=1&per_page=100",
+          "content_type": "application/json; charset=utf-8",
+          "last_modified": null,
+          "etag": "\"d751713988987e9331980363e24189ce\""
+        }
+      ],
+      "errors": [
+        {
+          "resource": "https://static.gigapan.com/gigapans0/74675/images/74675-200x200-12473-26814-221-14562.jpg",
+          "error": "HTTPSConnectionPool(host='static.gigapan.com', port=443): Max retries exceeded with url: /gigapans0/74675/images/74675-200x200-12473-26814-221-14562.jpg (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failu"
+        },
+        {
+          "resource": "https://static.gigapan.com/gigapans0/74675/images/74675-200x200.jpg",
+          "error": "HTTPSConnectionPool(host='static.gigapan.com', port=443): Max retries exceeded with url: /gigapans0/74675/images/74675-200x200.jpg (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)')))"
+        },
+        {
+          "resource": "https://static.gigapan.com/gigapans0/74675/images/74675-499x186.jpg",
+          "error": "HTTPSConnectionPool(host='static.gigapan.com', port=443): Max retries exceeded with url: /gigapans0/74675/images/74675-499x186.jpg (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)')))"
+        },
+        {
+          "resource": "https://tile74.gigapan.org/gigapans0/74675/tiles/r.jpg",
+          "error": "HTTPSConnectionPool(host='tile74.gigapan.org', port=443): Max retries exceeded with url: /gigapans0/74675/tiles/r.jpg (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)')))"
+        },
+        {
+          "resource": "https://tile74.gigapan.com/gigapans0/74675/tiles/r.jpg",
+          "error": "HTTPSConnectionPool(host='tile74.gigapan.com', port=443): Max retries exceeded with url: /gigapans0/74675/tiles/r.jpg (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)')))"
+        }
+      ]
+    }
+  ]
+}

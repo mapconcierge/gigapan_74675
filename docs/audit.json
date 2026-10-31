@@ -1,0 +1,23 @@
+{
+  "id": 74675,
+  "name": "Japanese Cherry Blossom Party 2",
+  "status": "complete",
+  "started_at": "2026-10-23T17:17:51.227450+00:00",
+  "finished_at": "2026-10-23T17:25:18.499650+00:00",
+  "geometry": {
+    "width": 39288,
+    "height": 14784,
+    "levels": 9,
+    "tile_size": 256
+  },
+  "expected_tiles": 11966,
+  "verified_tiles": 11966,
+  "missing_tiles": 0,
+  "tile_bytes": 261011049,
+  "downloaded_bytes": 261004154,
+  "last_error": "",
+  "warnings": [],
+  "snapshot_count": 0,
+  "salvager_version": "0.9.0",
+  "pages_url": "https://mapconcierge.github.io/gigapan_74675/"
+}
